@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bai1_ThayDoiGiaoDienNguoiDung</string>
+    <string name="PTT">Tên</string>
+    <string name="PTE">Email</string>
+    <string name="RBTN">Nam</string>
+    <string name="RBTN2">Nữ</string>
+    <string name="GT">Giới Tính</string>
+    <string name="TVTE">Email</string>
+    <string name="BTDY">OK</string>
+    <string name="BTH">CANCEL</string>
+    <string name="Tên">TVT</string>
+</resources>
